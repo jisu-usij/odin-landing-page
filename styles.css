@@ -79,6 +79,14 @@ button {
   margin-top: 12px;
 }
 
+.info {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  margin: 32px 0;
+}
+
 .banner-container {
   flex-grow: 1;
 }
