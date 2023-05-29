@@ -156,6 +156,7 @@ button {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 16px;
 }
 
 .banner-header {
@@ -171,3 +172,4 @@ button {
 .banner-button {
   border: #f9faf8 solid 2px;
 }
+
