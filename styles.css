@@ -58,6 +58,9 @@ button {
   color: #f9faf8;
   font-weight: bold;
   width: 100px;
+  box-sizing: content-box;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .hero-container {
@@ -144,4 +147,27 @@ button {
 
 .banner-container {
   flex-grow: 1;
+  padding: 80px 20vw;
+}
+
+.banner {
+  padding: 50px 100px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.banner-header {
+  color: #f9faf8;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.banner-text {
+  color: #f9faf8;
+}
+
+.banner-button {
+  border: #f9faf8 solid 2px;
 }
