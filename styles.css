@@ -96,6 +96,7 @@ button {
   display: flex;
   align-self: center;
   gap: 32px;
+  margin-bottom: 100px;
 }
 
 .item-image {
@@ -114,6 +115,7 @@ button {
 .item-text {
   width: 150px;
   color: #1f2937;
+  margin-top: 12px;
 }
 
 .banner-container {
